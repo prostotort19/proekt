@@ -1,0 +1,94 @@
+<html>
+    <head>
+        <title>T</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        
+        <header>
+            
+        </header>
+        <nav>
+            <a class="nav-link" href="">биография</a>
+            <a class="nav-link" href="">рассказы</a>
+            <a class="nav-link" href="">герои</a>
+            
+        </nav>
+        <main>
+            <h1>Рассказы Говарда Филлипса</h1>
+            <p>Наиболее известные и значимые произведения:</p>
+<div class="proisvedeniua">
+    <a href="https://ru.wikipedia.org/wiki/Склеп_(рассказ)">1917 — «Склеп»</a>
+    <p></p>
+    <a href="https://ru.wikipedia.org/wiki/Дагон_(рассказ)">1917 — «Дагон»</a>
+    <p></p>
+    <a href="https://ru.wikipedia.org/wiki/Картина_в_доме">1920 — «Картина в доме»</a>
+    <p></p>
+    <a href="https://ru.wikipedia.org/wiki/Из_глубин_мироздания">1920 — «Из глубин мироздания»</a>
+    <p></p>
+    <a href="https://ru.wikipedia.org/wiki/Безымянный_город">1921 — «Безымянный город»</a>
+    <p></p>
+    <a href="https://ru.wikipedia.org/wiki/Изгой_(рассказ)">1921 — «Изгой»</a>
+    <p></p>
+    <a href="https://ru.wikipedia.org/wiki/Иные_боги">1921 — «Другие боги»</a>
+    <p></p>
+    <a href="https://ru.wikipedia.org/wiki/Музыка_Эриха_Цанна">1921 — «Музыка Эриха Цана»</a>
+    <p></p>
+    <a href="https://ru.wikipedia.org/wiki/Герберт_Уэст_—_реаниматор">1922 — «Герберт Уэст — реаниматор»</a>
+    <p></p>
+    <a href="https://ru.wikipedia.org/wiki/Крысы_в_стенах">1923 — «Крысы в стенах»</a>
+    <p></p>
+    <a href="https://ru.wikipedia.org/wiki/Праздник_(рассказ)">1923 — «Праздник»</a>
+    <p></p>
+    <a href="https://ru.wikipedia.org/wiki/%D0%97%D0%BE%D0%B2_%D0%9A%D1%82%D1%83%D0%BB%D1%85%D1%83">1926 — «Зов Ктулху»</a>
+    <p></p>
+    <a href="https://ru.wikipedia.org/wiki/Модель_для_Пикмана">1926 — «Модель Пикмана»</a>
+    <p></p>
+    <a href="https://ru.wikipedia.org/wiki/Сомнамбулический_поиск_неведомого_Кадата">1927 — «Сомнамбулический поиск неведомого Кадата»</a>
+    <p></p>
+    <a href="https://ru.wikipedia.org/wiki/%D0%97%D0%BE%D0%B2_%D0%9A%D1%82%D1%83%D0%BB%D1%85%D1%83">1927 — «Цвет из иных миров»</a>
+    <p></p>
+    <a href="https://ru.wikipedia.org/wiki/%D0%97%D0%BE%D0%B2_%D0%9A%D1%82%D1%83%D0%BB%D1%85%D1%83">1927 — «Случай Чарльза Декстера Варда»</a>
+    <p></p>
+    <a href="https://ru.wikipedia.org/wiki/%D0%97%D0%BE%D0%B2_%D0%9A%D1%82%D1%83%D0%BB%D1%85%D1%83">1928 — «Ужас Данвича»</a>
+    <p></p>
+    <a href="https://ru.wikipedia.org/wiki/%D0%97%D0%BE%D0%B2_%D0%9A%D1%82%D1%83%D0%BB%D1%85%D1%83">1930 — «Шепчущий во тьме»</a>
+    <p></p>
+    <a href="https://ru.wikipedia.org/wiki/%D0%97%D0%BE%D0%B2_%D0%9A%D1%82%D1%83%D0%BB%D1%85%D1%83">1931 — «Хребты Безумия»</a>
+    <p></p>
+    <a href="https://ru.wikipedia.org/wiki/%D0%97%D0%BE%D0%B2_%D0%9A%D1%82%D1%83%D0%BB%D1%85%D1%83">1931 — «Тень над Иннсмутом»</a>
+    <p></p>
+</div>
+            <div class="obshiy">
+                <div class="dagon">
+                    <img  src="https://u.livelib.ru/reader/long399/o/e5duh5tk/o-o.jpeg" width="280" height="280">
+                    <p>«Дагон»</p>
+                </div>
+                <div class="nouname">
+                    <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/The_Nameless_City_by_leothefox.jpg/220px-The_Nameless_City_by_leothefox.jpg" width="280" height="280">
+                    <p>«безымянный город»</p>
+                </div>
+              
+                </div>
+                <div class="obshiy2">
+                    <div class="party">
+                    <img  src="http://sun9-85.userapi.com/sun9-46/impf/c630927/v630927369/a718/jtB2qGPxQf0.jpg?size=424x604&quality=96&sign=25b678b26b1894288aeaef6b150fefe5&type=album" width="200">
+                    <p>«Праздник»</p>
+                </div>
+                <div class="ktulhu">
+                    <img  src="https://lermontovka-spb.ru/m/t/event_photo/12_%D0%BC%D0%B0%D1%80%D1%82%D0%B0_%D0%B3%D0%B5%D1%80_large.jpg" width="280" height="280">
+                    <p>««Зов Ктулху»»</p>
+                </div>
+            </div>
+
+            
+
+
+            
+
+<p></p>
+
+            
+        </main>
+    </body>
+</html>
